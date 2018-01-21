@@ -1,3 +1,3 @@
-# Faster-RCNN_Pallets
+Detection and Tracking of Pallets using a Laser Rangefinder and Machine Learning Techniques
 
 This folder .....
