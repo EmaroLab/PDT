@@ -1,7 +1,5 @@
 # PDT - Pallets Detector and Tracker
 
-# An overview about the proposed detection system
-
 ## What is PDT?
  
 PDT is a public repository of codes and datasets for detecting and tracking the pallets in Warehouses based on machine learning approaches using a 2D Laser Rangefinder (LRF).
