@@ -12,7 +12,7 @@ The proposed system for pallets detection and tracking is mainly composed of two
 
 This dataset is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, including the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The authors allow the users of the Data Set to use and modify it for their own research. Any commercial application, redistribution, etc... has to be arranged between users and authors individually.
 
-For further license information, please contact the authors.
+> For further license information, please contact the authors.
 
 ## Authors contacts
 
