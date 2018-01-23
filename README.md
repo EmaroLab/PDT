@@ -2,7 +2,7 @@
 
 ## What is PDT?
  
-**PDT** is a public repository of codes and *datasets* for detecting and tracking the pallets in Warehouses based on machine learning approaches using a 2D Laser Rangefinder (LRF). ![GitHub Logo](/images/logo.png)
+**PDT** is a public repository of codes and *datasets* for detecting and tracking the [pallets](https://en.wikipedia.org/wiki/EUR-pallet) in Warehouses based on machine learning approaches using a 2D Laser Rangefinder (LRF). 
 
 The proposed system for pallets detection and tracking is mainly composed of two main components:
 1. a Faster Region-based Convolutional Network (Faster R-CNN) detector which is followed by CNN classifier for detecting the pallets.
