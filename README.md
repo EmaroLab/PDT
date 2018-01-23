@@ -19,10 +19,10 @@ For further license information, please contact the authors.
 If you want to be informed about dataset updates and new code releases, obtain further information about the provided dataset, or contribute to its development please write to:
 
 - **Ihab S. Mohamed**, dept. DIBRIS Università degli Studi di Genova (Italy), ihab.s.mohamed@gmail.com
-- Alessio Capitanelli, dept. DIBRIS Università degli Studi di Genova (Italy), alessio.capitanelli@dibris.unige.it
-- Fulvio Mastrogiovanni, dept. DIBRIS Università degli Studi di Genova (Italy), fulvio.mastrogiovanni@unige.it
-- Stefano Rovetta, dept. DIBRIS Università degli Studi di Genova (Italy), stefano.rovetta@unige.it
-- Renato Zaccaria, dept. DIBRIS Università degli Studi di Genova (Italy), renato.zaccaria@unige.it
+- **Alessio Capitanelli**, dept. DIBRIS Università degli Studi di Genova (Italy), alessio.capitanelli@dibris.unige.it
+- **Fulvio Mastrogiovanni**, dept. DIBRIS Università degli Studi di Genova (Italy), fulvio.mastrogiovanni@unige.it
+- **Stefano Rovetta**, dept. DIBRIS Università degli Studi di Genova (Italy), stefano.rovetta@unige.it
+- **Renato Zaccaria**, dept. DIBRIS Università degli Studi di Genova (Italy), renato.zaccaria@unige.it
 
 
 
