@@ -5,7 +5,7 @@
 * `PreTrained_CNNs`: contains the results of training the Faster R-CNN detector and the CNN classifier. These Pre-trained CNNs will be called by the Tracker in order to perform pallets tracking task.  
 
 * `TrackingResults`: contains the results of the proposed tracking algorithm frame by frame. It also contains the dataset which has been used to check the robustness of our approach in the case of having one pallet or 2-pallets (**see Subfolder**: `Images250Size`).
-................................................................................................................................................
+
 # Functions Description
 
 PDT is mainly composed of three sequential Phases:
