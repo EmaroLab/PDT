@@ -10,7 +10,7 @@
 
 PDT is mainly composed of three sequential Phases:
 
-1. `Phase #1` is mainly used to convert the acquired from laser scanner (raw data) into a 2D image (in both cases offline and on-line detection and 			tracking) in order to train the proposed Networks.
+1. `Phase #1` is mainly used to convert the acquired from laser scanner (raw data) into a 2D image (in both cases offline and on-line detection and tracking) in order to train the proposed Networks.
 
  
 	There are two functions for performing this phase:
@@ -23,9 +23,10 @@ PDT is mainly composed of three sequential Phases:
 
 	There are two main functions to fine-tune The proposed CNNs:
 	
-	1. `FasterRCNNPallet.m`: matlab function that shows how to train and test the Fast R-CNN detector using the ready data which we collected 		manually using "`Image Labeler App`". It also shows how to extract ROIs from the given image to train the CNN classifier. 
-	- [x] Note that: this script is compatible with Matlab 2017 only (`e.g. R2017b`).
-	- [] This is invalid for the rest of scripts.
+	1. `FasterRCNNPallet.m`: matlab function that shows how to train and test the Fast R-CNN detector using the ready data which we collected 		manually using "`Image Labeler App`". It also shows how to extract ROIs from the given image to train the CNN classifier.
+	
+	- [x] **Note that:** this script is compatible with Matlab 2017 (`e.g. R2017b`) not the previous versions.
+	- [ ] This is invalid for the rest of scripts.
 
 	2. `CNNPalletClassification_WithValidation.m`: matlab function that is used for training the dataset using the CNN classifier in order to 			classify Pallet among other negatives tracks with high confidence scores. It also applies the k-fold cross-validation to 				evaluate the performance of the proposed system.
 
