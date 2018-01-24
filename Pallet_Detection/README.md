@@ -27,8 +27,9 @@ PDT is mainly composed of three sequential Phases:
 	1. `FasterRCNNPallet.m`: matlab function that shows how to train and test the Fast R-CNN detector using the ready data which we collected manually using "`Image Labeler App`". It also shows how to extract ROIs from the given image to train the CNN classifier.
 	
 	
-	- [x] **Note that:** this script is compatible with Matlab 2017 (`e.g. R2017b`) not the previous versions.
-	- [ ] This is invalid for the rest of scripts.
+	
+	> - [x] **Note that:** this script is compatible with Matlab 2017 (`e.g. R2017b`) not the previous versions.
+	> - [ ] This is invalid for the rest of scripts.
 	
 
 	2. `CNNPalletClassification_WithValidation.m`: matlab function that is used for training the dataset using the CNN classifier in order to classify Pallet among other negatives tracks with high confidence scores. It also applies the k-fold cross-validation to evaluate the performance of the proposed system.
