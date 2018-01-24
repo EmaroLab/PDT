@@ -16,6 +16,7 @@ PDT is mainly composed of three sequential Phases:
 	There are two functions for performing this phase:
 
 	1. `XYLaserScan.m`: matlab function that shows how to convert the dataset acquired from Polar to Cartesian coordinates in order to train 				the CNNs. All the acquired data have been saved in "AllData" Folder.
+	
 	2. `CollectData.m`: matlab function that is used for collecting data while the robot is moving towards the pallet in order to perform 			Pallet tracking. We considered 3 paths for the same pallet pose in each "Path" there are 10 acquired frames.
 
 	
@@ -25,8 +26,10 @@ PDT is mainly composed of three sequential Phases:
 	
 	1. `FasterRCNNPallet.m`: matlab function that shows how to train and test the Fast R-CNN detector using the ready data which we collected 		manually using "`Image Labeler App`". It also shows how to extract ROIs from the given image to train the CNN classifier.
 	
+	
 	- [x] **Note that:** this script is compatible with Matlab 2017 (`e.g. R2017b`) not the previous versions.
 	- [ ] This is invalid for the rest of scripts.
+	
 
 	2. `CNNPalletClassification_WithValidation.m`: matlab function that is used for training the dataset using the CNN classifier in order to 			classify Pallet among other negatives tracks with high confidence scores. It also applies the k-fold cross-validation to 				evaluate the performance of the proposed system.
 
