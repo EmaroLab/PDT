@@ -1,6 +1,11 @@
 # *Folders Description*
 
-* `AllData`: contains the main part of the dataset which has been used for training and testing the proposed detection system. It contains the raw data which has been acquired from the LRF (**see Subfolders**: `Class1 & Class2`) and the generated 2D images (**see Subfolder**: `PalletImages`). 	 It also contains the acquired data while the robot is moving towards the Pallet (**see Subfolder**: `TrajectoryDataset`). 
+* `AllData`: contains the main part of the dataset which has been used for training and testing the proposed detection system. It contains the raw data which has been acquired from the LRF (**see Subfolders**: `Class1 & Class2`) and the generated 2D images (**see Subfolder**: `PalletImages`). 	 It also contains the acquired data while the robot is moving towards the Pallet (**see Subfolder**: `TrajectoryDataset`).
+
+**Note that:** 
+1. `Class2` represents the class where there is no pallet in the environment or there is an obstacle in front of the pallet which prevents automatic forking.
+
+2. In our experiments, `Class2` has not been used. We just added it because it might be useful for others.
 
 * `PreTrained_CNNs`: contains the results of training the Faster R-CNN detector and the CNN classifier. These Pre-trained CNNs will be called by the Tracker in order to perform pallets tracking task.  
 
