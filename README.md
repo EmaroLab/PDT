@@ -14,12 +14,12 @@ This dataset is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 Eventually, if you use PDT or relevant to your academic work, please cite:
 
-@article{mohamed2018detection,\\
-  title={[Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://arxiv.org/abs/1803.11254)},\\
-  author={Mohamed, Ihab S. and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},\\
-  journal={arXiv preprint arXiv:1803.11254},\\
+@article{mohamed2018detection,<br/>
+  title={[Detection, localisation and tracking of pallets using machine learning techniques and 2D range data](https://arxiv.org/abs/1803.11254)},<br/>
+  author={Mohamed, Ihab S. and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
+  journal={arXiv preprint arXiv:1803.11254},<br/>
   year={2018}\\
-}\\
+}<br/>
 
 > For further license information, please contact the authors.
 
