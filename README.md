@@ -30,6 +30,10 @@ year={2018}<br/>
 
 > For further license information, please contact the authors.
 
+## Errata Corrige
+
+In the paper "[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X?via%3Dihub)" we stated that we provide 4 continous trajectories for testing purposes. Indeed, the files you will find in the `PDT/Pallet_Detection/AllData/` folder are not continous, but they contain 3 separate trajectories, each counting 40 frames and about *4m* long. For each set, one trajectory is taken while approaching directly the pallet, while the other two are taken trying to keep the pallet on the right and on the left side of the sensor respectively. Each set differs by the sensor starting position, the pallet's position and orientation, and obstacles' disposition and dimensions.
+
 ## Authors contacts
 
 If you want to be informed about dataset updates and new code releases, obtain further information about the provided dataset, or contribute to its development please write to:
