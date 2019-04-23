@@ -30,7 +30,7 @@ year={2018}<br/>
   publisher={Elsevier}<br/>
 }<br/>
 
-> For further license information, please contact the authors.
+For further license information, please contact the authors.
 
 ## Errata Corrige
 
