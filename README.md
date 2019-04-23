@@ -22,7 +22,7 @@ year={2018}<br/>
 }<br/>
 
 @article{mohamed20182d,<br/>
-  title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://arxiv.org/abs/1805.08564)},<br/>
+  title={[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X?via%3Dihub)},<br/>
   author={Mohamed, Ihab S and Capitanelli, Alessio and Mastrogiovanni, Fulvio and Rovetta, Stefano and Zaccaria, Renato},<br/>
   journal={arXiv preprint arXiv:1805.08564},<br/>
   year={2018}<br/>
@@ -32,7 +32,7 @@ year={2018}<br/>
 
 ## Errata Corrige
 
-In the paper "[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X?via%3Dihub)" we stated that we provide 4 continous trajectories for testing purposes. Indeed, the files you will find in the `PDT/Pallet_Detection/AllData/` folder are not continous, but they contain 3 separate trajectories, each counting 40 frames and about *4m* long. For each set, one trajectory is taken while approaching directly the pallet, while the other two are taken trying to keep the pallet on the right and on the left side of the sensor respectively. Each set differs by the sensor starting position, the pallet's position and orientation, and obstacles' disposition and dimensions.
+In the paper "[A 2D laser rangefinder scans dataset of standard EUR pallets](https://www.sciencedirect.com/science/article/pii/S235234091930188X?via%3Dihub)"[^1] we stated that we provide 4 continous trajectories for testing purposes. Indeed, the files you will find in the `PDT/Pallet_Detection/AllData/` folder are not continous, but they contain 3 separate trajectories, each counting 40 frames and about *4m* long. For each set, one trajectory is taken while approaching directly the pallet, while the other two are taken trying to keep the pallet on the right and on the left side of the sensor respectively. Each set differs by the sensor starting position, the pallet's position and orientation, and obstacles' disposition and dimensions.
 
 ## Authors contacts
 
@@ -44,6 +44,4 @@ If you want to be informed about dataset updates and new code releases, obtain f
 - **Stefano Rovetta**, dept. DIBRIS Università degli Studi di Genova (Italy), stefano.rovetta@unige.it
 - **Renato Zaccaria**, dept. DIBRIS Università degli Studi di Genova (Italy), renato.zaccaria@unige.it
 
-
-
-
+[^1]: Preprint version available on [arXiv](https://arxiv.org/abs/1805.08564)
